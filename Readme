@@ -41,12 +41,6 @@ The ESP32-S3 was designed to operate with a stable power supply, so a capacitor 
 
 ---
 
-## 💻 Software & Programming
-
-The **ESP32-S3** was programmed using **ESP LaunchPad**.
-
-The required firmware/code was uploaded to the ESP32-S3 through ESP LaunchPad to control the RC boat and operate the motor through the custom-built motor driver.
-
 ## ⚡ Custom Motor Driver
 
 One of the main features of this project is the **self-made motor driver**.
