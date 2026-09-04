@@ -9,8 +9,8 @@ The motor driver is self-made using an **AO3400 MOSFET, SS14 diode, 10kΩ resist
 
 ## 📸 Project
 
-![ESP32-S3 RC Boat](images/boat.jpg)
-
+![ESP32-S3 RC Boat](https://github.com/Ananthu871/Mini-wind-powered-rc-Boat/blob/main/images/WhatsApp%20Image%202026-09-05%20at%203.18.04%20AM.jpeg)
+![ESP32-S3 RC Boat]()
 ---
 
 ## 🔧 Main Specifications
