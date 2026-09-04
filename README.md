@@ -1,7 +1,7 @@
 # 🚤 ESP32-S3 RC Boat
 
 A DIY lightweight RC boat built around an **ESP32-S3** and a custom-made motor driver.  
-The propulsion system uses a **720 coreless DC motor**, powered by a **3.7V Li-Po battery**, with a **31 mm 3-blade propeller**.
+The propulsion system uses a **720 coreless DC motor**, powered by a **3.7V Li-Po battery**, with a **31mm 3-blade propeller**.
 
 The motor driver is self-made using an **AO3400 MOSFET, SS14 diode, 10kΩ resistor, and capacitor** for improved power stability.
 
